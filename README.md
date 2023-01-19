@@ -14,6 +14,10 @@ Bounding box method uses the hand's bounding box width and height. Converts the 
 
 >- Prone to errors due to hand angles.
 
+<p align = "center">
+<img src = "https://github.com/0EnIgma1/Gesture-Mouse/blob/main/GESTURES.png", width = "600">
+</p>
+
 ## Index Position method
 
 >- dist_fp.py
@@ -25,6 +29,9 @@ The distance between Indices were found using hypot() function
 
 The hypot() method returns the Euclidean norm. The Euclidian norm is the distance from the origin to the coordinates given.
 
+<p align = "center">
+<img src = "https://github.com/0EnIgma1/Gesture-Mouse/blob/main/GESTURES.png", width = "600">
+</p>
 
 Both methods have an error or 1-2 cm.
 
