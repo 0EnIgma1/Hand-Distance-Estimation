@@ -12,7 +12,7 @@ Two methods were followed to estimate the distance
 
 Bounding box method uses the hand's bounding box width and height. Converts the pixel values into centimeter(cm).
 
-Prone to errors due to hand angles rgb(255,0,0)
+>- Prone to errors due to hand angles.
 
 ## Index Position method
 
