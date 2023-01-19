@@ -15,7 +15,7 @@ Bounding box method uses the hand's bounding box width and height. Converts the 
 >- Prone to errors due to hand angles.
 
 <p align = "center">
-<img src = "https://github.com/0EnIgma1/Hand-Distance-Estimation/blob/main/bound.png">
+<img src = "https://github.com/0EnIgma1/Hand-Distance-Estimation/blob/main/bound.PNG">
 </p>
 
 ## Index Position method
